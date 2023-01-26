@@ -4,7 +4,7 @@ tsParticles.load("tsparticles", {
     color: { value: "#043564" },
     image:
       "url('https://vincentgarreau.com/particles.js/assets/img/kbLd9vb_new.gif')",
-    position: "0 80%",
+    position: "0 120%",
     repeat: "no-repeat",
     size: "100%",
     opacity: 1
